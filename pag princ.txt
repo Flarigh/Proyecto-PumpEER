@@ -1,0 +1,21 @@
+<html>
+<head><title>PumpEER</title><head>
+<body bgcolor="black" text="white" link="yellow" vlink="orange" alink="red">
+
+<img src="main Cambiado!.jpg">
+
+<p><b><a href="que es.html">Qué es</a><img src="flecha rotativa.gif"><a href="como jugar.html">Cómo jugar</a><img src="flecha rotativa.gif"><a href="historia.html">Historia</a><img src="flecha rotativa.gif"><a href="canciones.html">Canciones</a><img src="flecha rotativa.gif"><a href="trucos.html">Trucos</a><img src="flecha rotativa.gif"><a href="links.html">Links</a></b></p>
+
+<p><b>03/11/06</b></p>
+<p>"PumpEER" es una página provisional que yo ;Esteban Ezequiel Rial, alumno de la E. T. "República del Líbano" cursando el quinto año en la segunda división del turno tarde; he creado en concepto de un trabajo práctico para la materia Computación bajo la supervisión de la profesora Dávalos.</p>
+<p>Esta página contiene los siguientes temas:</p>
+<p><b>Que es:</b> Sintesis acerca del juego en general.</p>
+<p><b>Como jugar:</b> Explicación detallada del juego en acción.</p>
+<p><b>Historia:</b> La forma en que el juego se fue desarrollando desde su país natal, Corea, hasta llegar a ser una conmoción internacional.</p>
+<p><b>Canciones:</b> Todas las portadas de todas las canciones, con sus respectivos pasos, divididas en las diferentes versiones del juego que fueron apareciendo.</p>
+<p><b>Trucos:</b> Para personalizar el modo de juego prácticamente a nuestro gusto.</p>
+<p><b>Links:</b> Para conocer las páginas que fui encontrando, que me ayudaron a practicar los pasos y entender mejor el juego.</p>  
+
+</body>
+</head>
+</html>

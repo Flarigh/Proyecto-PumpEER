@@ -1,0 +1,40 @@
+<html>
+<head><title>PumpEER</title><head>
+<body bgcolor="black" text="white" link="yellow" vlink="orange" alink="red">
+
+<img src="main trucos.jpg">
+
+<p><b><a href="que es.html">Qué es</a><img src="flecha rotativa.gif"><a href="como jugar.html">Cómo jugar</a><img src="flecha rotativa.gif"><a href="historia.html">Historia</a><img src="flecha rotativa.gif"><a href="canciones.html">Canciones</a><img src="flecha rotativa.gif"><a href="trucos.html">Trucos</a><img src="flecha rotativa.gif"><a href="links.html">Links</a></b></p>
+
+<p>Puesto desde el primer lanzamiento, todos los modos del juego aceptan los modificantes que son permitidos usando códigos especiales. Los efectos varían desde flechas que se apresuran hasta flechas con formas variadas (de estrellas, animales, frutas, cartas de flores, muñecos de nieve, y caritas con anteojos de sol!). La mayoría de los jugadores, después de un tiempo, empiezan a utilizarlos para hacer flechas más rápidas, que las hacen más espaciadas. Ésta es una cuestión de preferencias personales, pero los jugadores prefieren generalmente aplicar estos modificantes para lograr una visión más clara cuando hay pasos muy superpuestos y mezclados.</p>
+<p>A continuación, les muestro los códigos de la versión Extra, que es la más común en Capital Federal.</p>
+<p><b>Velocidad 2x 4x 8x:</b> Aumenta la velocidad de las flechas pero no cambia la velocidad de la canción.</p>
+<p>2x: <img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p>4x: <img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25">x2</p>
+<p>8x: <img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25">x3</p>
+<p><b>Mirror:</b> Se supone que debe mostrar las imagenes dadas vuelta, no?</p>
+<p><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Syncro:</b> Ambos jugadores hacen exactamente los mismos pasos.</p>
+<p><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Random:</b> Los pasos cambian aleatoriamente.</p>
+<p><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Vanish:</b> Crea una niebla en la parte superior del trayecto de las flechas, que no deja ver si están cerca del "molde".</p>
+<p><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Invisible:</b>La niebla tapa todo el trayecto de las flechas, sólo para quienes se sepan los pasos de memoria.</p>
+<p><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25">x2</p>
+<p><b>Personalización de flechas</b> Para darle un toque diferente al juego.</p>
+<p>Muñecos de nieve: <img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>  
+<p>Caritas: <img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p>Naves espaciales: <img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p>Mah Johng: <img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p>Fondo de mar: <img src="abajo derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Rush:</b> Aumenta el ritmo de la canción en un 20%. En consecuencia también las flechas se pondrán más rápidas, pero no estarán espaciadas.</p>
+<p><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="arriba izquierda.jpg" height="25" width="25"><img src="arriba derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="centro.jpg" height="25" width="25"></p>
+<p><b>Cancelar trucos</b></p>
+<p><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"><img src="abajo izquierda.jpg" height="25" width="25"><img src="abajo derecha.jpg" height="25" width="25"></p>
+
+<p><a href="pag princ.html">Volver a página principal</a></p>
+
+</body>
+</head>
+</html>

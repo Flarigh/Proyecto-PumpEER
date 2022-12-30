@@ -1,0 +1,11 @@
+<html>
+<head><title>PumpEER</title><head>
+<body bgcolor="black" text="white" link="yellow" vlink="orange" alink="red">
+
+<img src="main canciones.jpg">
+
+<p><b><a href="que es.html">Qué es</a><img src="flecha rotativa.gif"><a href="como jugar.html">Cómo jugar</a><img src="flecha rotativa.gif"><a href="historia.html">Historia</a><img src="flecha rotativa.gif"><a href="canciones.html">Canciones</a><img src="flecha rotativa.gif"><a href="trucos.html">Trucos</a><img src="flecha rotativa.gif"><a href="links.html">Links</a></b></p>
+
+</body>
+</head>
+</html>
